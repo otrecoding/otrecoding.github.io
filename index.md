@@ -5,8 +5,7 @@ In this organization we develop two packages R and Julia. This is an ongoing pro
 - Julia package [OTRecod.jl](https://github.com/otrecoding/OTRecod.jl)
 - R package [OTrecod](https://github.com/otrecoding/OTrecod)
 
-Both packages had been developped by [Jeremy Omer](@jeremyomer) and [Valérie Gares](@vagares)
-from [INSA Rennes](https://insa-rennes.fr)
+Both packages had been developped by @vagares, @jeremyomer, @gguernec and @pnavaro.
 
 For more information please refer to the preprint:
 
@@ -15,5 +14,5 @@ For more information please refer to the preprint:
 
 ### Support or Contact
 
-- R package [Gregory Guernec](@gguernec)
-- Julia package [Pierre Navaro](@pnavaro)
+- R package @gguernec
+- Julia package @pnavaro
