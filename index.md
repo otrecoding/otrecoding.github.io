@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Optimal transport for data recoding.
 
-You can use the [editor on GitHub](https://github.com/otrecoding/otrecoding.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In this organization we develop two packages R and Julia. This is an ongoing project
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Julia package [OTRecod.jl](https://github.com/otrecoding/OTRecod.jl)
+- R package [OTrecod](https://github.com/otrecoding/OTrecod)
 
-### Markdown
+Both packages had been developped by [Jeremy Omer](@jeremyomer) and [Valérie Gares](@vagares)
+from [INSA Rennes](https://insa-rennes.fr)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For more information please refer to the preprint:
 
-```markdown
-Syntax highlighted code block
+[*Valérie Garès, Jérémy Omer. Regularized optimal transport of covariates and outcomes in data recoding. 2019. hal-02123109* ](https://hal.archives-ouvertes.fr/hal-02123109/).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/otrecoding/otrecoding.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- R package [Gregory Guernec](@gguernec)
+- Julia package [Pierre Navaro](@pnavaro)
